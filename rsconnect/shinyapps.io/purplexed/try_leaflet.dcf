@@ -1,0 +1,8 @@
+name: try_leaflet
+account: purplexed
+server: shinyapps.io
+bundleId: 215606
+url: https://purplexed.shinyapps.io/try_leaflet
+when: 1436138774.44395
+asMultiple: FALSE
+asStatic: FALSE
